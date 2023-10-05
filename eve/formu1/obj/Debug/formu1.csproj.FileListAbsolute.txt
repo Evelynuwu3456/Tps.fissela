@@ -1,0 +1,6 @@
+C:\Users\Alumno\source\repos\eve\formu1\obj\Debug\formu1.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\eve\formu1\obj\Debug\formu1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\source\repos\eve\formu1\obj\Debug\formu1.Form1.resources
+C:\Users\Alumno\source\repos\eve\formu1\obj\Debug\formu1.Properties.Resources.resources
+C:\Users\Alumno\source\repos\eve\formu1\obj\Debug\formu1.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\eve\formu1\obj\Debug\formu1.csproj.CoreCompileInputs.cache

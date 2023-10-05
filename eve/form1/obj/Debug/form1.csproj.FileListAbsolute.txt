@@ -1,0 +1,11 @@
+C:\Users\Alumno\source\repos\eve\form1\bin\Debug\form1.exe.config
+C:\Users\Alumno\source\repos\eve\form1\bin\Debug\form1.exe
+C:\Users\Alumno\source\repos\eve\form1\bin\Debug\form1.pdb
+C:\Users\Alumno\source\repos\eve\form1\obj\Debug\form1.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\eve\form1\obj\Debug\form1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\source\repos\eve\form1\obj\Debug\form1.Form1.resources
+C:\Users\Alumno\source\repos\eve\form1\obj\Debug\form1.Properties.Resources.resources
+C:\Users\Alumno\source\repos\eve\form1\obj\Debug\form1.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\eve\form1\obj\Debug\form1.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\eve\form1\obj\Debug\form1.exe
+C:\Users\Alumno\source\repos\eve\form1\obj\Debug\form1.pdb
