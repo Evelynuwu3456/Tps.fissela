@@ -1,0 +1,11 @@
+C:\Users\Alumno\source\repos\Formulario\Evelyn\bin\Debug\Evelyn.exe.config
+C:\Users\Alumno\source\repos\Formulario\Evelyn\bin\Debug\Evelyn.exe
+C:\Users\Alumno\source\repos\Formulario\Evelyn\bin\Debug\Evelyn.pdb
+C:\Users\Alumno\source\repos\Formulario\Evelyn\obj\Debug\Evelyn.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\Formulario\Evelyn\obj\Debug\Evelyn.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\source\repos\Formulario\Evelyn\obj\Debug\Evelyn.Form1.resources
+C:\Users\Alumno\source\repos\Formulario\Evelyn\obj\Debug\Evelyn.Properties.Resources.resources
+C:\Users\Alumno\source\repos\Formulario\Evelyn\obj\Debug\Evelyn.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\Formulario\Evelyn\obj\Debug\Evelyn.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\Formulario\Evelyn\obj\Debug\Evelyn.exe
+C:\Users\Alumno\source\repos\Formulario\Evelyn\obj\Debug\Evelyn.pdb
