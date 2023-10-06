@@ -9,3 +9,14 @@ C:\Users\Alumno\source\repos\eve\form1\obj\Debug\form1.csproj.GenerateResource.c
 C:\Users\Alumno\source\repos\eve\form1\obj\Debug\form1.csproj.CoreCompileInputs.cache
 C:\Users\Alumno\source\repos\eve\form1\obj\Debug\form1.exe
 C:\Users\Alumno\source\repos\eve\form1\obj\Debug\form1.pdb
+C:\xampp\htdocs\Tps.fissela\eve\form1\bin\Debug\form1.exe.config
+C:\xampp\htdocs\Tps.fissela\eve\form1\bin\Debug\form1.exe
+C:\xampp\htdocs\Tps.fissela\eve\form1\bin\Debug\form1.pdb
+C:\xampp\htdocs\Tps.fissela\eve\form1\obj\Debug\form1.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Tps.fissela\eve\form1\obj\Debug\form1.csproj.SuggestedBindingRedirects.cache
+C:\xampp\htdocs\Tps.fissela\eve\form1\obj\Debug\form1.Form1.resources
+C:\xampp\htdocs\Tps.fissela\eve\form1\obj\Debug\form1.Properties.Resources.resources
+C:\xampp\htdocs\Tps.fissela\eve\form1\obj\Debug\form1.csproj.GenerateResource.cache
+C:\xampp\htdocs\Tps.fissela\eve\form1\obj\Debug\form1.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Tps.fissela\eve\form1\obj\Debug\form1.exe
+C:\xampp\htdocs\Tps.fissela\eve\form1\obj\Debug\form1.pdb
